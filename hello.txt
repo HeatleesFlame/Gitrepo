@@ -1,4 +1,2 @@
-print('welcome')
-print('how are you?')
-def Loose('merge')
-пива хочу
+print('welcome');
+print('how are you?');
